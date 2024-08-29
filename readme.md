@@ -2,7 +2,8 @@
 
 This project is a physics-based simulation using **Cannon.js** for physics and **Three.js** for 3D rendering. The scene features dynamic object creation, interaction, and real-time physics simulation, all while emphasizing performance optimizations like sleep schedules for inactive objects.
 
-**DEMO:** 
+**DEMO:** [physics-demo-cannon-three-js.vercel.app](http://physics-demo-cannon-three-js.vercel.app/)
+
 
 ## Features
 
